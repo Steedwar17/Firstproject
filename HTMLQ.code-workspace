@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../HTMLQ"
+		},
+		{
+			"path": "../COLEGIO"
+		},
+		{
+			"path": "../QUIZHMTL"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "COLEGIO",
+		"liveServer.settings.port": 5501
+	}
+}
